@@ -2,3 +2,4 @@ A projet to show how the number of party votes affect the distribution of seats 
 
 An working example can be seen [here](https://codesandbox.io/s/determined-jones-cizfu?file=/src/App.js)
 
+![Alt text](/example?raw=true )
